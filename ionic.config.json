@@ -1,0 +1,7 @@
+{
+  "name": "sigfas-mobile-teste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
